@@ -39,5 +39,10 @@ This project is designed to manage and run a Minecraft server with MOD support. 
 ## Contributing
 Feel free to submit issues or pull requests to improve this project.
 
+## References
+
+- [Official Minecraft server documentation](https://www.minecraft.net/en-us/download/server)
+- [Docker Compose documentation](https://docs.docker.com/compose/)
+
 ## License
 This project is licensed under the MIT License.
